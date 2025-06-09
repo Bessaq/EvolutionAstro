@@ -39,8 +39,8 @@ services:
     ports:
       - 5432:5432
     environment:
-      - POSTGRES_USER=Evolution
-      - POSTGRES_PASSWORD=1q2w3e$R
+      - POSTGRES_USER=AstroApi
+      - POSTGRES_PASSWORD=Nilse2565
       - POSTGRES_DB=evolution
       - POSTGRES_HOST_AUTH_METHOD=trust
     volumes:
